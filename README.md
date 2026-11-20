@@ -5,7 +5,7 @@ Course project for **Foundations of Computer Science** (A.Y. 2026/2027) at the *
 **Author:** Askar Amro Emad Hassan (Student ID: `946807`)
 
 ## Repository Structure
-- `Foundation_CS_946807_Askar_Amro_Emad_Hassan.ipynb` — Complete Jupyter notebook with solutions to Questions 1–9 and the required LLM/AI usage disclosure.
+- `Foundation_CS_946807_Askar_Amro_Emad_Hassan.ipynb` — Complete Jupyter notebook with the code.
 - `data/` — Datasets used in the analysis (`student_dropout_risk_2026.csv.gz` and `gdp-per-capita-worldbank.csv`).
 
 ## Requirements
