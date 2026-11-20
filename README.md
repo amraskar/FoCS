@@ -6,7 +6,7 @@ Course project for **Foundations of Computer Science** (A.Y. 2026/2027) at the *
 
 ## Repository Structure
 - `Foundation_CS_946807_Askar_Amro_Emad_Hassan.ipynb` — Complete Jupyter notebook with the code.
-- `data/` — Datasets used in the analysis (`student_dropout_risk_2026.csv.gz` and `gdp-per-capita-worldbank.csv`).
+- `data/` — Datasets used in the analysis (`student_dropout_risk_2026.csv.gz`).
 
 ## Requirements
 - Python 3
